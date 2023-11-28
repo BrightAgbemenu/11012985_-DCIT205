@@ -52,3 +52,5 @@ https://github.com/BrightAgbemenu/11012985_-DCIT205.git
 ##Contact Us
 ![contact Us 1-1](https://github.com/BrightAgbemenu/11012985_-DCIT205/assets/136804517/97fb93ba-5542-4ce0-9bec-99c58351fd39)
 
+##Moral Lesson
+I have learnt how to develop a website using Html Css.I became fluent to use the html tags and its various elements.
