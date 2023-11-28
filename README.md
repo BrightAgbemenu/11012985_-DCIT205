@@ -1,1 +1,1 @@
-# DCIT_205_IA
+# University of Ghana Computer Science Department Website
